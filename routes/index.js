@@ -6,7 +6,7 @@ router.get('/', function(req, res, next) {
   console.log['asdodo']
   res.render('index', {
      title: 'Informacion Personal',
-     FirstName : 'Anthony Enrique',
+     FirstName : 'Anthonyy Enrique',
      LastName : 'Arteaga Daniel',
      Id : '30874360',
      Section : '4'
